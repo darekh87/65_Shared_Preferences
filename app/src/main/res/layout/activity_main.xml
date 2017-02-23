@@ -84,8 +84,7 @@
         android:layout_alignParentEnd="true" />
 
     <TextView
-        android:text="GITHUB
-        "
+        android:text="GITHUB1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@+id/button"
